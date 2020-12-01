@@ -23,5 +23,4 @@ Papers focusing on the topic of Knowledge Representation Learning or Knowlegde G
 13. R-GCN: [*Modeling Relational Data with Graph Convolutional Networks (2017)*](https://arxiv.org/pdf/1703.06103.pdf)
 14. CompGCN: [*Composition-Based Multi-Relational Graph Convolutional Networks (2019)*](https://arxiv.org/pdf/1911.03082.pdf)
 15. KBGAT: [*Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs (2019)*](https://arxiv.org/pdf/1906.01195.pdf)
-16. InteractE: [*InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions (2020)*](https://arxiv.org/pdf/1911.00219.pdf)
 
