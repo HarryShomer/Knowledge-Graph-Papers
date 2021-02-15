@@ -1,4 +1,4 @@
-# Accepted KG Papers in 2020
+# Accepted KG Papers in 2021
 
 ## ICLR 2021
 1. Interpreting Knowledge Graph Relation Representation from Word Embeddings [[paper]](https://openreview.net/forum?id=gLWj29369lW)
