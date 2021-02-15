@@ -3,7 +3,8 @@
 ## ACL 2020
 ### Long Papers
 1. Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information [[paper]](https://www.aclweb.org/anthology/2020.acl-main.255)
-1. Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction 1. Connecting Embeddings for Knowledge Graph Entity Typing [[paper]](https://www.aclweb.org/anthology/2020.acl-main.572)
+1. Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction [[paper]](https://www.aclweb.org/anthology/2020.acl-main.209)
+1. Connecting Embeddings for Knowledge Graph Entity Typing [[paper]](https://www.aclweb.org/anthology/2020.acl-main.572)
 1. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs [[paper]](https://arxiv.org/abs/1911.02707)
 1. Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings [[paper]](https://www.aclweb.org/anthology/2020.acl-main.412)
 1. Knowledge Graph Embedding Compression [[paper]](https://www.aclweb.org/anthology/2020.acl-main.238.pdf)

@@ -3,7 +3,8 @@
 ## ACL 2020
 ### Long Papers
 1. Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information
-1. Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction 1. Connecting Embeddings for Knowledge Graph Entity Typing
+1. Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction 
+1. Connecting Embeddings for Knowledge Graph Entity Typing
 1. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs
 1. Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings
 1. Knowledge Graph Embedding Compression
